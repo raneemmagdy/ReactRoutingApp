@@ -1,0 +1,16 @@
+.btnActive{
+    background-color: #1ABC9C !important;
+}
+.secColor{
+    background-color: #2C3E50;
+   
+}
+
+.fixedNavbar {
+    position: fixed !important;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 998; 
+  }
+  
